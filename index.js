@@ -168,9 +168,3 @@ readFiles(filePaths,function(imgSrcs){
 
 
 
-
-
-
-
-
-
