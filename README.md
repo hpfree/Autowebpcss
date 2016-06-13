@@ -1,2 +1,2 @@
-# webpcss
+# Autowebpcss
 use webp img
